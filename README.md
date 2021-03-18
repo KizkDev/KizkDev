@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @KizkDev also known as Husky
+- 👀 I’m interested in ... Software Engineer mostly backend new technologies
+- 🌱 I’m currently learning ... Flutter and React JS
+- 💞️ I’m looking to collaborate on ... an app that everyone use
+- 📫 How to reach me ... , follow the white rabbit.
