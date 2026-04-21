@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KizkDev also known as Husky
+- 👋 Hi, I’m Huzky
 - 👀 I’m interested in ... Software Engineer mostly backend new technologies
 - 🌱 I’m currently working with ... NodeJS, Angular 20+, typescript.
 - 💞️ I’m looking to collaborate on ... an app that everyone use
