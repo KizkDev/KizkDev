@@ -2,4 +2,4 @@
 - 👀 I’m interested in ... Software Engineer mostly backend new technologies
 - 🌱 I’m currently working with ... NodeJS, Angular 20+, typescript.
 - 💞️ I’m looking to collaborate on ... an app that everyone use
-- 📫 How to reach me ... , follow the white rabbit.
+- 📫 How to find me ... follow the white rabbit.
